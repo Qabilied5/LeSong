@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Wix Regular';
+    src: url("../font/WixMadeforText-Regular.ttf");
+}
+
+body{
+    background-image: url("../images/Background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5{
+    -webkit-text-fill-color: white;
+    font-family: "Wix Regular";
+}
+
+h1 {
+    font-size: 2rem;   /* ~32px */
+    line-height: 2.4rem;
+}
+
+h2 {
+    font-size: 1.75rem;  /* ~28px */
+    line-height: 2.2rem;
+}
+
+h3 {
+    font-size: 1.5rem;   /* ~24px */
+    line-height: 2rem;
+}
+
+h4 {
+    font-size: 1.25rem;  /* ~20px */
+    line-height: 1.8rem;
+}
+
+h5 {
+    font-size: 1rem;     /* ~16px */
+    line-height: 1.5rem;
+}
