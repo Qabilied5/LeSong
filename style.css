@@ -1,11 +1,11 @@
 
 @font-face {
     font-family: 'Wix Regular';
-    src: url("../font/WixMadeforText-Regular.ttf");
+    src: url("font/WixMadeforText-Regular.ttf");
 }
 
 body{
-    background-image: url("../images/Background.png");
+    background-image: url("images/Background.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
